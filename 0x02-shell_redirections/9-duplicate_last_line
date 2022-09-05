@@ -1,2 +1,2 @@
 #!/bin/bash
-tail -10 iacta | cp
+tail +10 iacta | cp
